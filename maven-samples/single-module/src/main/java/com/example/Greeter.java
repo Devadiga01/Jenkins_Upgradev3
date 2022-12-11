@@ -23,6 +23,7 @@ public class Greeter {
     
 	  System.out.println("Hello from Main Method & Hi & Good Evening This is RITHESH DEVADIGA ....Thanks for joining!!!");
 	  System.out.println("I have added new line for practice");
+	  System.out.println("thanks");
   }
 	
 }
