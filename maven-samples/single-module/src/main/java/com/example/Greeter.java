@@ -22,8 +22,8 @@ public class Greeter {
   public static void main(String args[]){
     
 	  System.out.println("Hello from Main Method & Hi & Good Evening This is RITHESH DEVADIGA ....Thanks for joining!!!");
-	  System.out.println("I have added new line for practice");
-	  System.out.println("POM FILE PATH GIVEN.......yo wasssup");
+	  System.out.println("I have added new line for practice")
+	  System.out.println("POM FILE PATH GIVEN.......yo wasssup")
   }
 	
 }
